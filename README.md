@@ -1,2 +1,0 @@
-# BootStrapRtl
-BootStrap Rtl
